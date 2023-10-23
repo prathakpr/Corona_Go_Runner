@@ -4,7 +4,7 @@
 a game created during the pandemic to educate and raise awareness about essential COVID-19 safety measures. Play while learning about social distancing, mask-wearing, vaccination, and proper handwashing.
 It is designed during the COVID-19 pandemic to raise awareness about essential health measures. This engaging game promotes important practices such as social distancing, proper mask usage, vaccination, and regular handwashing. Join the mission to combat the virus while having fun and learning about crucial safety measures. Play your part in spreading awareness and protecting your community!
 
-Download obb file frome here : <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1nJkAYmDw3XhmFIM9BdpxlyVOOGfYACZw">Link</a>
+Download obb file frome here : <a target="_blank" href="https://drive.google.com/file/d/1FDwtWMCBV-P-k4H6jDU299PVeNF2bAn3/view?usp=sharing">Link</a>
 
 Video Link : <a target="_blank" href="https://www.linkedin.com/posts/prathakpr_project-corona-gameplay-activity-6854483287981748224-Dn1F/">Link</a> 
 
